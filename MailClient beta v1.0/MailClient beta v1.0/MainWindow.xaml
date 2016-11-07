@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:MailClient_beta_v1._0"
         mc:Ignorable="d"
         ResizeMode="NoResize"
-        Title="MainWindow" Height="512" Width="720" >
+        Title="登录邮件系统" Height="512" Width="720" >
     <Window.Resources>
         <DataTemplate x:Key="ItemTemplate">
             <StackPanel>
@@ -23,8 +23,7 @@
         <Grid.Background>
             <ImageBrush ImageSource="MailClient_DesignPhotography.jpg"/>
         </Grid.Background>
-        <Button x:Name="button" Content="登录" Width="80.458" Background="#FFDDDDDD" HorizontalAlignment="Left" Margin="26.643,0,0,83.609" Grid.Row="1" Height="39.406" VerticalAlignment="Bottom" FontSize="16"/>
-        <Button x:Name="button1" Content="多账户配置" Width="112.244" HorizontalAlignment="Left" Margin="114.84,0,0,83.609" Grid.Row="1" Height="39.406" VerticalAlignment="Bottom" FontSize="16"/>
+        <Button x:Name="button" Content="登录" Width="200" HorizontalAlignment="Left" Margin="27,0,0,82.333" Grid.Row="1" Height="40" VerticalAlignment="Bottom" FontSize="16" Background="#FFDDDDDD"/>
         <TextBox x:Name="textBox" TextWrapping="Wrap" FontSize="21.333" Margin="26.016,102.568,0,0" Grid.Row="1" HorizontalAlignment="Left" Height="32.414" VerticalAlignment="Top" Width="201.068"/>
         <PasswordBox x:Name="passwordBox" Width="201.068" FontSize="21.333" HorizontalAlignment="Left" Margin="26.016,141.982,0,143.331" Grid.Row="1"/>
         <Label x:Name="label" Content="邮箱登录" Height="50.7" Width="170.906" Background="#FF1D1F1F" Foreground="White" FontSize="26.667" HorizontalAlignment="Left" Margin="26.016,31.333,0,0" Grid.Row="1" VerticalAlignment="Top"/>
