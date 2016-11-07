@@ -12,3 +12,5 @@ C:\Users\Joe\Documents\Visual Studio 2015\Projects\MailClient beta v1.0\MailClie
 C:\Users\Joe\Documents\Visual Studio 2015\Projects\MailClient beta v1.0\MailClient beta v1.0\obj\Debug\MailClient beta v1.0.csproj.GenerateResource.Cache
 C:\Users\Joe\Documents\Visual Studio 2015\Projects\MailClient beta v1.0\MailClient beta v1.0\obj\Debug\MailClient beta v1.0.exe
 C:\Users\Joe\Documents\Visual Studio 2015\Projects\MailClient beta v1.0\MailClient beta v1.0\obj\Debug\MailClient beta v1.0.pdb
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\MailClient beta v1.0\MailClient beta v1.0\obj\Debug\UserWindow.g.cs
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\MailClient beta v1.0\MailClient beta v1.0\obj\Debug\UserWindow.baml
