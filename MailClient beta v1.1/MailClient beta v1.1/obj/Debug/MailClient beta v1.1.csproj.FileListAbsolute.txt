@@ -38,9 +38,12 @@ C:\Users\Joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClie
 C:\Users\Joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\Pages\MultipleAccountManagement.g.cs
 C:\Users\Joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\Pages\QuitAccounts.baml
 C:\Users\Joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\Pages\QuitAccounts.g.cs
+<<<<<<< HEAD
 C:\Users\Joe\Downloads\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\MailClient beta v1.1.exe
 C:\Users\Joe\Downloads\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\MailClient beta v1.1.pdb
 C:\Users\Joe\Documents\Visual Studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\LoginWindow.g.cs
 C:\Users\Joe\Documents\Visual Studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\MailClient beta v1.1_MarkupCompile.lref
 C:\Users\Joe\Documents\Visual Studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\LoginWindow.baml
 C:\Users\Joe\Documents\Visual Studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml
+=======
+>>>>>>> hktime/branch1

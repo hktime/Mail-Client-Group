@@ -15,3 +15,6 @@ C:\Users\Joe\Documents\Visual Studio 2015\Projects\MailClient beta v1.0\MailClie
 C:\Users\Joe\Documents\GitHub\Mail-Client-Group\MailClient beta v1.0\MailClient beta v1.0\bin\Debug\MailClient beta v1.0.exe.config
 C:\Users\Joe\Documents\GitHub\Mail-Client-Group\MailClient beta v1.0\MailClient beta v1.0\obj\Debug\MailClient beta v1.0.exe
 C:\Users\Joe\Documents\GitHub\Mail-Client-Group\MailClient beta v1.0\MailClient beta v1.0\obj\Debug\MailClient beta v1.0.pdb
+C:\Users\hk\Documents\GitHub\Mail-Client-Group\MailClient beta v1.0\MailClient beta v1.0\bin\Debug\MailClient beta v1.0.exe.config
+C:\Users\hk\Documents\GitHub\Mail-Client-Group\MailClient beta v1.0\MailClient beta v1.0\obj\Debug\MailClient beta v1.0.exe
+C:\Users\hk\Documents\GitHub\Mail-Client-Group\MailClient beta v1.0\MailClient beta v1.0\obj\Debug\MailClient beta v1.0.pdb
