@@ -1,0 +1,29 @@
+﻿<Application x:Class="MailClient_beta_v1._1.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+<<<<<<< HEAD
+<<<<<<< HEAD
+             StartupUri="LoginWindow">
+=======
+             StartupUri="MainWindow.xaml">
+>>>>>>> hktime/branch1
+=======
+             StartupUri="MainWindow.xaml">
+>>>>>>> hktime/branch1
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/FirstFloor.ModernUI;component/Assets/ModernUI.xaml" />
+<<<<<<< HEAD
+<<<<<<< HEAD
+                <ResourceDictionary Source="/FirstFloor.ModernUI;component/Assets/ModernUI.Dark.xaml"/>
+=======
+                <ResourceDictionary Source="/FirstFloor.ModernUI;component/Assets/ModernUI.Light.xaml"/>
+>>>>>>> hktime/branch1
+=======
+                <ResourceDictionary Source="/FirstFloor.ModernUI;component/Assets/ModernUI.Light.xaml"/>
+>>>>>>> hktime/branch1
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

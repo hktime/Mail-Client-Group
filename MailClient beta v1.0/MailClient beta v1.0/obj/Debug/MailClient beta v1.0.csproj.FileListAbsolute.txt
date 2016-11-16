@@ -1,0 +1,20 @@
+c:\users\joe\documents\visual studio 2015\Projects\MailClient beta v1.0\MailClient beta v1.0\bin\Debug\MailClient beta v1.0.exe.config
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\MailClient beta v1.0\MailClient beta v1.0\bin\Debug\MailClient beta v1.0.exe
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\MailClient beta v1.0\MailClient beta v1.0\bin\Debug\MailClient beta v1.0.pdb
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\MailClient beta v1.0\MailClient beta v1.0\obj\Debug\MailClient beta v1.0.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\MailClient beta v1.0\MailClient beta v1.0\obj\Debug\MainWindow.g.cs
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\MailClient beta v1.0\MailClient beta v1.0\obj\Debug\App.g.cs
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\MailClient beta v1.0\MailClient beta v1.0\obj\Debug\MailClient beta v1.0_MarkupCompile.cache
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\MailClient beta v1.0\MailClient beta v1.0\obj\Debug\MailClient beta v1.0_MarkupCompile.lref
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\MailClient beta v1.0\MailClient beta v1.0\obj\Debug\MainWindow.baml
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\MailClient beta v1.0\MailClient beta v1.0\obj\Debug\MailClient beta v1.0.g.resources
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\MailClient beta v1.0\MailClient beta v1.0\obj\Debug\MailClient_beta_v1._0.Properties.Resources.resources
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\MailClient beta v1.0\MailClient beta v1.0\obj\Debug\MailClient beta v1.0.csproj.GenerateResource.Cache
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\MailClient beta v1.0\MailClient beta v1.0\obj\Debug\MailClient beta v1.0.exe
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\MailClient beta v1.0\MailClient beta v1.0\obj\Debug\MailClient beta v1.0.pdb
+C:\Users\Joe\Documents\GitHub\Mail-Client-Group\MailClient beta v1.0\MailClient beta v1.0\bin\Debug\MailClient beta v1.0.exe.config
+C:\Users\Joe\Documents\GitHub\Mail-Client-Group\MailClient beta v1.0\MailClient beta v1.0\obj\Debug\MailClient beta v1.0.exe
+C:\Users\Joe\Documents\GitHub\Mail-Client-Group\MailClient beta v1.0\MailClient beta v1.0\obj\Debug\MailClient beta v1.0.pdb
+C:\Users\hk\Documents\GitHub\Mail-Client-Group\MailClient beta v1.0\MailClient beta v1.0\bin\Debug\MailClient beta v1.0.exe.config
+C:\Users\hk\Documents\GitHub\Mail-Client-Group\MailClient beta v1.0\MailClient beta v1.0\obj\Debug\MailClient beta v1.0.exe
+C:\Users\hk\Documents\GitHub\Mail-Client-Group\MailClient beta v1.0\MailClient beta v1.0\obj\Debug\MailClient beta v1.0.pdb

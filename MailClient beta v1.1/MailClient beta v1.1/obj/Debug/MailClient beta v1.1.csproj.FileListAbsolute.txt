@@ -1,0 +1,52 @@
+c:\users\joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\bin\Debug\MailClient beta v1.1.exe
+c:\users\joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\bin\Debug\MailClient beta v1.1.pdb
+c:\users\joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\bin\Debug\FirstFloor.ModernUI.dll
+c:\users\joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\bin\Debug\FirstFloor.ModernUI.xml
+c:\users\joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\MailClient beta v1.1.csprojResolveAssemblyReference.cache
+c:\users\joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\MainWindow.baml
+c:\users\joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\Pages\Settings\About.baml
+c:\users\joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\Pages\Settings\Appearance.baml
+c:\users\joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\Pages\Home.baml
+c:\users\joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\Pages\SettingsPage.baml
+c:\users\joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\App.baml
+c:\users\joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\MainWindow.g.cs
+c:\users\joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\Pages\Settings\About.g.cs
+c:\users\joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\Pages\Settings\Appearance.g.cs
+c:\users\joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\Pages\Home.g.cs
+c:\users\joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\Pages\SettingsPage.g.cs
+c:\users\joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\App.g.cs
+c:\users\joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\MailClient beta v1.1_MarkupCompile.cache
+c:\users\joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\MailClient beta v1.1.g.resources
+c:\users\joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\MailClient beta v1.1.exe
+c:\users\joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\MailClient beta v1.1.pdb
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\MailClient beta v1.1_Content.g.cs
+C:\Users\Joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\Pages\ReceiveMail.baml
+C:\Users\Joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\Pages\ReceiveMailSettings.baml
+C:\Users\Joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\Pages\ReceiveMail.g.cs
+C:\Users\Joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\Pages\ReceiveMailSettings.g.cs
+C:\Users\Joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\Content\ReceiveMailDefault.baml
+C:\Users\Joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\Content\ReceiveMailDefault.g.cs
+C:\Users\Joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\Pages\MailManage.baml
+C:\Users\Joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\Pages\MailManage.g.cs
+C:\Users\Joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\Pages\DraftBox.baml
+C:\Users\Joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\Pages\DraftBox.g.cs
+C:\Users\Joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\Pages\Trash.baml
+C:\Users\Joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\Pages\Trash.g.cs
+C:\Users\Joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\Pages\TrashManage.baml
+C:\Users\Joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\Pages\TrashManage.g.cs
+C:\Users\Joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\Pages\MultipleAccountManagement.baml
+C:\Users\Joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\Pages\MultipleAccountManagement.g.cs
+C:\Users\Joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\Pages\QuitAccounts.baml
+C:\Users\Joe\documents\visual studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\Pages\QuitAccounts.g.cs
+<<<<<<< HEAD
+<<<<<<< HEAD
+C:\Users\Joe\Downloads\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\MailClient beta v1.1.exe
+C:\Users\Joe\Downloads\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\MailClient beta v1.1.pdb
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\LoginWindow.g.cs
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\MailClient beta v1.1_MarkupCompile.lref
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\LoginWindow.baml
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\MailClient beta v1.1\MailClient beta v1.1\obj\Debug\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml
+=======
+>>>>>>> hktime/branch1
+=======
+>>>>>>> hktime/branch1

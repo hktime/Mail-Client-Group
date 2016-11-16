@@ -1,0 +1,30 @@
+﻿<UserControl x:Class="MailClient_beta_v1._1.Pages.ReceiveMailSettings"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+             mc:Ignorable="d" 
+             d:DesignHeight="305.832" d:DesignWidth="583.153">
+    <Grid Style="{StaticResource ContentRoot}">
+        <ScrollViewer>
+            <Canvas MinWidth="200">
+                <TextBlock Text="对客户端收件规则进行设定" Style="{StaticResource Heading2}" Canvas.Left="10" Canvas.Top="10" />
+                <TextBlock Text="邮件下载规则：" Canvas.Top="55" Height="22" Width="116" FontSize="16" Canvas.Left="10"/>
+                <ComboBox Canvas.Left="124" Canvas.Top="56">
+                    <ComboBoxItem IsSelected="True">邮件完全下载</ComboBoxItem>
+                    <ComboBoxItem>下载邮件头</ComboBoxItem>
+                </ComboBox>
+                <TextBlock Text="下载模式：" Canvas.Top="86" Height="22" Width="116" FontSize="16" Canvas.Left="42"/>
+                <ComboBox Canvas.Left="124" Canvas.Top="87">
+                    <ComboBoxItem IsSelected="True">下载邮件到客户端并保存服务器上的邮件</ComboBoxItem>
+                    <ComboBoxItem>下载邮件到客户端并删除服务器上的邮件</ComboBoxItem>
+                </ComboBox>
+                <Button x:Name="收件规则保存" Content="保存设置" Height="30" Canvas.Left="124" Canvas.Top="127" Width="88"/>
+                <Button x:Name="立即从服务器更新邮件到本地客户端" Content="立即从服务器更新邮件到本地客户端" Height="30" Canvas.Left="217" Canvas.Top="127" Width="251"/>
+                <ProgressBar x:Name="ReceiveProgressBar" Height="10" Canvas.Left="10" Canvas.Top="242" Width="100" Visibility="Hidden"/>
+
+            </Canvas>
+        </ScrollViewer>
+    </Grid>
+</UserControl>
