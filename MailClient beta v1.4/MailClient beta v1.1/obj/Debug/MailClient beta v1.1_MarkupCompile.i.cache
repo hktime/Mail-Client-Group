@@ -1,0 +1,20 @@
+﻿MailClient beta v1.1
+
+
+winexe
+C#
+.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\MailClient beta v1.3\MailClient beta v1.1\obj\Debug\
+MailClient_beta_v1._1
+none
+false
+DEBUG;TRACE
+\\Mac\Home\Documents\Visual Studio 2015\Projects\MailClient beta v1.3\MailClient beta v1.1\App.xaml
+16-996536245
+2-893761932
+241354326232
+13-293856364
+Content\MailContent.xaml;Content\ReceiveMailDefault.xaml;LoginWindow.xaml;MainWindow.xaml;Pages\DraftBox.xaml;Pages\MailManage.xaml;Pages\MultipleAccountManagement.xaml;Pages\QuitAccounts.xaml;Pages\ReceiveMail.xaml;Pages\ReceiveMailSettings.xaml;Pages\Settings\About.xaml;Pages\Settings\Appearance.xaml;Pages\Home.xaml;Pages\SettingsPage.xaml;Pages\Trash.xaml;Pages\TrashManage.xaml;
+
+False
+

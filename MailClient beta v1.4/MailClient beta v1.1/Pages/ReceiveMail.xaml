@@ -1,0 +1,24 @@
+﻿<UserControl x:Class="MailClient_beta_v1._1.Pages.ReceiveMail"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+             mc:Ignorable="d" 
+             d:DesignHeight="331.901" d:DesignWidth="592.534">
+    <Grid Style="{StaticResource ContentRoot}">
+        <!-- TODO: set @SelectedSource -->
+        <mui:ModernTab Layout="List" SelectedSource="/Content/ReceiveMailDefault.xaml"  x:Name="defaultpage" Loaded="default_Loaded"  MouseMove="default_Loaded">
+            <mui:ModernTab.Links>
+                <!-- TODO: set @Source -->
+                <mui:Link DisplayName="Simple@163.com(发件人)&#13;这是主题(主题)"  Source="/Content/MailContent.xaml" />
+            </mui:ModernTab.Links>
+            <mui:ModernTab.DataContext>
+                <ContextMenu></ContextMenu>
+            </mui:ModernTab.DataContext>
+        </mui:ModernTab>
+        <Button x:Name="answer" Content="回复" Height="25"  Margin="0,0,0,1" HorizontalAlignment="Left" Width="75" VerticalAlignment="Bottom"  />
+        <Button x:Name="forward" Content="转发" Width="75" Height="25"   Margin="80,0,0,1" VerticalAlignment="Bottom" HorizontalAlignment="Left" />
+
+    </Grid>
+</UserControl>

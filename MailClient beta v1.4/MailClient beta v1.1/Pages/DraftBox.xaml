@@ -1,0 +1,24 @@
+﻿<UserControl x:Class="MailClient_beta_v1._1.Pages.DraftBox"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid Style="{StaticResource ContentRoot}">
+        <Canvas>
+            <TextBlock Text="点击草稿继续编辑或删除草稿" Style="{StaticResource Heading2}" />
+                <!-- 需要添加功能使checkbox的文本点击后跳转到发件箱的写信操作，并且写信操作中填满草稿内容 -->
+                <ListBox Height="360" Canvas.Left="10" Canvas.Top="26" Width="248">
+                    <ListBoxItem>
+                        <CheckBox x:Name="本地草稿1" Content="本地草稿1" />
+                    </ListBoxItem>
+                    <ListBoxItem>
+                        <CheckBox x:Name="本地草稿2" Content="本地草稿2" />
+                    </ListBoxItem>
+                </ListBox>
+            <Button x:Name="删除本地邮件" Content="删除" Height="30" Canvas.Left="10" Canvas.Top="400" Width="70"/>
+        </Canvas>
+    </Grid>
+</UserControl>
