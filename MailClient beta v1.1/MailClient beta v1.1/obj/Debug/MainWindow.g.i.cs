@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿#pragma checksum "..\..\MainWindow.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "51DAB0FCCEDC0D13DA2EB118182368A7"
+=======
+﻿#pragma checksum "..\..\MainWindow.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "75E6B92E27F4F2CF12CF565547E3879C"
+>>>>>>> hktime/branch1
 =======
 ﻿#pragma checksum "..\..\MainWindow.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "75E6B92E27F4F2CF12CF565547E3879C"
 >>>>>>> hktime/branch1

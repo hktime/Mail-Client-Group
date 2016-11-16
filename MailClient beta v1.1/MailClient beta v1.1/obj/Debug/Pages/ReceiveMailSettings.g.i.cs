@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿#pragma checksum "..\..\..\Pages\ReceiveMailSettings.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "4A4A73D91D6B853EF0A43EC01E761A38"
+=======
+﻿#pragma checksum "..\..\..\Pages\ReceiveMailSettings.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "F351006E1C32670038A59B28DA2FC38C"
+>>>>>>> hktime/branch1
 =======
 ﻿#pragma checksum "..\..\..\Pages\ReceiveMailSettings.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "F351006E1C32670038A59B28DA2FC38C"
 >>>>>>> hktime/branch1

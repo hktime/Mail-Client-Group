@@ -14,6 +14,7 @@ namespace MailClient_beta_v1._1
     public partial class App : Application
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         protected override void OnStartup(StartupEventArgs e)
         {
             Application.Current.ShutdownMode = System.Windows.ShutdownMode.OnExplicitShutdown;
@@ -30,6 +31,8 @@ namespace MailClient_beta_v1._1
                 this.Shutdown();
             }
         }
+=======
+>>>>>>> hktime/branch1
 =======
 >>>>>>> hktime/branch1
     }

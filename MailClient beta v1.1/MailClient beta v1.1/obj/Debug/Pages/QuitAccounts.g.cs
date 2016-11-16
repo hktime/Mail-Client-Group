@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿#pragma checksum "..\..\..\Pages\QuitAccounts.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "CB2E822B6124AA12868BB71D9C0DDD81"
+=======
+﻿#pragma checksum "..\..\..\Pages\QuitAccounts.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "72A474926902F4B00ACC3D1FA5EB5A31"
+>>>>>>> hktime/branch1
 =======
 ﻿#pragma checksum "..\..\..\Pages\QuitAccounts.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "72A474926902F4B00ACC3D1FA5EB5A31"
 >>>>>>> hktime/branch1

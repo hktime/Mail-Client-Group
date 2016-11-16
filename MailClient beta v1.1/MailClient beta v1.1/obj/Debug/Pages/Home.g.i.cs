@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿#pragma checksum "..\..\..\Pages\Home.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "7F4C4D42EDFC8C2B5C6EFDB6854E31B5"
+=======
+﻿#pragma checksum "..\..\..\Pages\Home.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "0D284ECAFA19379794AD957078C7269A"
+>>>>>>> hktime/branch1
 =======
 ﻿#pragma checksum "..\..\..\Pages\Home.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "0D284ECAFA19379794AD957078C7269A"
 >>>>>>> hktime/branch1

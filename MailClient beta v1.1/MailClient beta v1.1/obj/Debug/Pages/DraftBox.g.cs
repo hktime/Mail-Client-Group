@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿#pragma checksum "..\..\..\Pages\DraftBox.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "0387759677E922541163C5F9754E72A4"
+=======
+﻿#pragma checksum "..\..\..\Pages\DraftBox.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "E8BEBAE1B8E306E32ECFF31F6901463F"
+>>>>>>> hktime/branch1
 =======
 ﻿#pragma checksum "..\..\..\Pages\DraftBox.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "E8BEBAE1B8E306E32ECFF31F6901463F"
 >>>>>>> hktime/branch1

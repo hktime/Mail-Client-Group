@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿#pragma checksum "..\..\..\Pages\Trash.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "D59B22C1C754F01B0D22E94BF5DB0F82"
+=======
+﻿#pragma checksum "..\..\..\Pages\Trash.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "4C703AB43375334320295D2552917F6D"
+>>>>>>> hktime/branch1
 =======
 ﻿#pragma checksum "..\..\..\Pages\Trash.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "4C703AB43375334320295D2552917F6D"
 >>>>>>> hktime/branch1

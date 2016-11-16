@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿#pragma checksum "..\..\LoginWindow.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "C00D482CDF230D8EECA30C72E19FFC4A"
+=======
+﻿#pragma checksum "..\..\LoginWindow.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "20022359AA0D4FE941AD4739A7C02B31"
+>>>>>>> hktime/branch1
 =======
 ﻿#pragma checksum "..\..\LoginWindow.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "20022359AA0D4FE941AD4739A7C02B31"
 >>>>>>> hktime/branch1
@@ -56,7 +60,11 @@ namespace MailClient_beta_v1._1 {
         #line 22 "..\..\LoginWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
 <<<<<<< HEAD
+<<<<<<< HEAD
         internal System.Windows.Controls.TextBox textBox;
+=======
+        internal System.Windows.Controls.Button button1;
+>>>>>>> hktime/branch1
 =======
         internal System.Windows.Controls.Button button1;
 >>>>>>> hktime/branch1
@@ -68,7 +76,11 @@ namespace MailClient_beta_v1._1 {
         #line 23 "..\..\LoginWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
 <<<<<<< HEAD
+<<<<<<< HEAD
         internal System.Windows.Controls.PasswordBox passwordBox;
+=======
+        internal System.Windows.Controls.TextBox textBox;
+>>>>>>> hktime/branch1
 =======
         internal System.Windows.Controls.TextBox textBox;
 >>>>>>> hktime/branch1
@@ -80,7 +92,11 @@ namespace MailClient_beta_v1._1 {
         #line 24 "..\..\LoginWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
 <<<<<<< HEAD
+<<<<<<< HEAD
         internal System.Windows.Controls.Label 邮箱登录;
+=======
+        internal System.Windows.Controls.PasswordBox passwordBox;
+>>>>>>> hktime/branch1
 =======
         internal System.Windows.Controls.PasswordBox passwordBox;
 >>>>>>> hktime/branch1
@@ -90,9 +106,15 @@ namespace MailClient_beta_v1._1 {
         
         
 <<<<<<< HEAD
+<<<<<<< HEAD
         #line 26 "..\..\LoginWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.CheckBox 登陆选项;
+=======
+        #line 25 "..\..\LoginWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Label label;
+>>>>>>> hktime/branch1
 =======
         #line 25 "..\..\LoginWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
@@ -106,6 +128,7 @@ namespace MailClient_beta_v1._1 {
         #line 27 "..\..\LoginWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
 <<<<<<< HEAD
+<<<<<<< HEAD
         internal System.Windows.Controls.TextBlock 账户;
         
         #line default
@@ -115,6 +138,9 @@ namespace MailClient_beta_v1._1 {
         #line 28 "..\..\LoginWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBlock 密码;
+=======
+        internal System.Windows.Controls.CheckBox checkBox;
+>>>>>>> hktime/branch1
 =======
         internal System.Windows.Controls.CheckBox checkBox;
 >>>>>>> hktime/branch1
@@ -157,6 +183,7 @@ namespace MailClient_beta_v1._1 {
             return;
             case 2:
 <<<<<<< HEAD
+<<<<<<< HEAD
             this.textBox = ((System.Windows.Controls.TextBox)(target));
             return;
             case 3:
@@ -174,6 +201,8 @@ namespace MailClient_beta_v1._1 {
             case 7:
             this.密码 = ((System.Windows.Controls.TextBlock)(target));
 =======
+=======
+>>>>>>> hktime/branch1
             this.button1 = ((System.Windows.Controls.Button)(target));
             return;
             case 3:
@@ -187,6 +216,9 @@ namespace MailClient_beta_v1._1 {
             return;
             case 6:
             this.checkBox = ((System.Windows.Controls.CheckBox)(target));
+<<<<<<< HEAD
+>>>>>>> hktime/branch1
+=======
 >>>>>>> hktime/branch1
             return;
             }

@@ -31,9 +31,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <PropertyGroup>
     <ApplicationIcon>email.ico</ApplicationIcon>
   </PropertyGroup>
+=======
+>>>>>>> hktime/branch1
 =======
 >>>>>>> hktime/branch1
   <ItemGroup>
@@ -69,10 +72,13 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <Page Include="LoginWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+=======
+>>>>>>> hktime/branch1
 =======
 >>>>>>> hktime/branch1
     <Page Include="MainWindow.xaml">
@@ -83,9 +89,12 @@
       <DependentUpon>ReceiveMailDefault.xaml</DependentUpon>
     </Compile>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <Compile Include="LoginWindow.xaml.cs">
       <DependentUpon>LoginWindow.xaml</DependentUpon>
     </Compile>
+=======
+>>>>>>> hktime/branch1
 =======
 >>>>>>> hktime/branch1
     <Compile Include="MainWindow.xaml.cs">
@@ -184,7 +193,10 @@
   </ItemGroup>
   <ItemGroup>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <Content Include="email.ico" />
+=======
+>>>>>>> hktime/branch1
 =======
 >>>>>>> hktime/branch1
     <Content Include="MailClient_DesignPhotography.jpg" />

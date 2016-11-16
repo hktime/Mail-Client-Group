@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿#pragma checksum "..\..\..\Pages\MultipleAccountManagement.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "1D5E1F4DD6AD4ADF8C76033723A6A18B"
+=======
+﻿#pragma checksum "..\..\..\Pages\MultipleAccountManagement.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "12FD3E7ECD23F7D85A671D86972D6E75"
+>>>>>>> hktime/branch1
 =======
 ﻿#pragma checksum "..\..\..\Pages\MultipleAccountManagement.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "12FD3E7ECD23F7D85A671D86972D6E75"
 >>>>>>> hktime/branch1

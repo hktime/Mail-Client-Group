@@ -9,7 +9,10 @@
 //------------------------------------------------------------------------------
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("email.ico")]
+=======
+>>>>>>> hktime/branch1
 =======
 >>>>>>> hktime/branch1
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("mailclient_designphotography.jpg")]

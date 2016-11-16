@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿#pragma checksum "..\..\App.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "8D4F483B6C9E147120578A1A6B037837"
+=======
+﻿#pragma checksum "..\..\App.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "EE21562A8B897CB01F3DD6A5F57E2F61"
+>>>>>>> hktime/branch1
 =======
 ﻿#pragma checksum "..\..\App.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "EE21562A8B897CB01F3DD6A5F57E2F61"
 >>>>>>> hktime/branch1
@@ -58,7 +62,11 @@ namespace MailClient_beta_v1._1 {
             
             #line 4 "..\..\App.xaml"
 <<<<<<< HEAD
+<<<<<<< HEAD
             this.StartupUri = new System.Uri("LoginWindow", System.UriKind.Relative);
+=======
+            this.StartupUri = new System.Uri("MainWindow.xaml", System.UriKind.Relative);
+>>>>>>> hktime/branch1
 =======
             this.StartupUri = new System.Uri("MainWindow.xaml", System.UriKind.Relative);
 >>>>>>> hktime/branch1
